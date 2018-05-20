@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jameshclrk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jameshclrk.com
+  * I am jameshclrk (https://keybase.io/jameshclrk) on keybase.
+  * I have a public key ASCTNfSgzIGixRTQg5cEm_NtSblkRJcEFWc9lEWCEZ-Gego
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01209335f4a0cc81a2c514d08397049bf36d49b96444970415673d944582119f867a0a",
+            "host": "keybase.io",
+            "kid": "01209335f4a0cc81a2c514d08397049bf36d49b96444970415673d944582119f867a0a",
+            "uid": "b310064237f1645e8683056c96810d19",
+            "username": "jameshclrk"
+        },
+        "service": {
+            "hostname": "jameshclrk.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1461788044,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1461788012,
+        "hash": "e6b7d9533af065de3ff86d40a03755d164c6e09e42f67276e4093444a99e4d817f1f87bf220aede6639a5bf4536089334c63675104422988908067ff040644f3",
+        "seqno": 452294
+    },
+    "prev": "7866213f6f8a947bffcb3cc9a7cbf4f3b1499080bf9513b9c093e8a834377afe",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkzX0oMyBosUU0IOXBJvzbUm5ZESXBBVnPZRFghGfhnoKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTMzNWY0YTBjYzgxYTJjNTE0ZDA4Mzk3MDQ5YmYzNmQ0OWI5NjQ0NDk3MDQxNTY3M2Q5NDQ1ODIxMTlmODY3YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTMzNWY0YTBjYzgxYTJjNTE0ZDA4Mzk3MDQ5YmYzNmQ0OWI5NjQ0NDk3MDQxNTY3M2Q5NDQ1ODIxMTlmODY3YTBhIiwidWlkIjoiYjMxMDA2NDIzN2YxNjQ1ZTg2ODMwNTZjOTY4MTBkMTkiLCJ1c2VybmFtZSI6ImphbWVzaGNscmsifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImphbWVzaGNscmsuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTUifSwiY3RpbWUiOjE0NjE3ODgwNDQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2MTc4ODAxMiwiaGFzaCI6ImU2YjdkOTUzM2FmMDY1ZGUzZmY4NmQ0MGEwMzc1NWQxNjRjNmUwOWU0MmY2NzI3NmU0MDkzNDQ0YTk5ZTRkODE3ZjFmODdiZjIyMGFlZGU2NjM5YTViZjQ1MzYwODkzMzRjNjM2NzUxMDQ0MjI5ODg5MDgwNjdmZjA0MDY0NGYzIiwic2Vxbm8iOjQ1MjI5NH0sInByZXYiOiI3ODY2MjEzZjZmOGE5NDdiZmZjYjNjYzlhN2NiZjRmM2IxNDk5MDgwYmY5NTEzYjljMDkzZThhODM0Mzc3YWZlIiwic2Vxbm8iOjEyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLStT+DqfWGxcGtjlysPbBr6RcCTq+C0cdbkWBXIlLb3FCZV7l+HwCLT0tTEzvvD5M1A4XahYgfYBsNgR4z3UQ6oc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jameshclrk
+
+==================================================================
